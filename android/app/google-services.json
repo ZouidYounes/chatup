@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "669468418476",
+    "firebase_url": "https://chatup-ce4b8.firebaseio.com",
+    "project_id": "chatup-ce4b8",
+    "storage_bucket": "chatup-ce4b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669468418476:android:58ea11cde48bd682b3da09",
+        "android_client_info": {
+          "package_name": "com.unez.chatup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669468418476-pu6ft88jtmqmee1lv20ojdd85eliag0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG6-EI3Ay0iVa1sQdUWFU1xHIPgOOYpGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669468418476-pu6ft88jtmqmee1lv20ojdd85eliag0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
